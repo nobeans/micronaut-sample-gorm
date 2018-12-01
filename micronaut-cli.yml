@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.sample.gorm
+---
+testFramework: spock
+sourceLanguage: groovy
